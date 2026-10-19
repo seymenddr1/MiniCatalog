@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Headphones",
+    "description": "Comfortable headphones for everyday use.",
+    "price": 35.0,
+    "image": "assets/images/headphones.jpg"
+  },
+  {
+    "name": "Keyboard",
+    "description": "A keyboard for work and study.",
+    "price": 42.0,
+    "image": "assets/images/keyboard.jpg"
+  },
+  {
+    "name": "T-Shirt",
+    "description": "A casual cotton T-shirt.",
+    "price": 18.0,
+    "image": "assets/images/tshirt.jpg"
+  },
+  {
+    "name": "Coffee Mug",
+    "description": "A ceramic mug for tea or coffee.",
+    "price": 12.0,
+    "image": "assets/images/mug.jpg"
+  },
+  {
+    "name": "Desk Lamp",
+    "description": "A lamp for your desk.",
+    "price": 28.0,
+    "image": "assets/images/lamp.jpg"
+  },
+  {
+    "name": "Notebook",
+    "description": "A paper notebook for daily notes.",
+    "price": 8.0,
+    "image": "assets/images/notebook.jpg"
+  }
+]

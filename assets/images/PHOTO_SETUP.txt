@@ -1,0 +1,5 @@
+Real product photographs are downloaded here after you run:
+
+  powershell -ExecutionPolicy Bypass -File .\download_photos.ps1
+
+They are not cartoon images. See PHOTO_CREDITS.md for sources and licenses.
